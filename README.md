@@ -1,1 +1,1 @@
-# nlp - Natural Langugage Processin cs224n.
+# nlp - Natural Langugage Processing cs224n.
