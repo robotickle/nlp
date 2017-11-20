@@ -1,0 +1,32 @@
+CS 224n
+
+1. Deep Learning is a part of machine learning.
+	1. traditional macinelearning - DecisionTrees, Naive bayes, logistic regression, svm, ... statistics - 
+	=====================================================================================================
+				user will work hard to make the machine work - user will learn not machine.
+					user creates features, like hiphens, dash.
+					every month bunch or eningeers in google creates features that is used for search.
+					what was the machine doing - All it was doing was neumerical optimization.
+																	  ------------------------		
+						building linear classifier, putting parameter weight infront of a feature.
+						machine learning job was to optimize that paramter.
+
+	2. DL (is part of Representation Learning)- user prepares data, DL makes machine learn.
+	==========================================
+				Create multiple layers of learnt representations, be able to outperform other learnt system.
+
+
+				All inventions were done in 80s and 90s, but now its successful due to convergence of
+				1. - Vast amount of Data.
+				2. - Compute Power.
+				parallel compute of these vectors using GPUs. - hence successful, and more algorithms.
+
+
+				- Dahl et. al (2010) - went to microsoft. another studend of hinton went to google.
+				- need cs229, cs221
+
+				pre-requisite:
+					- multivariate calculus, linear algebra, basic prob. algebra.
+
+
+
